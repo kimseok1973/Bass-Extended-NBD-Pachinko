@@ -61,7 +61,7 @@ $$p_1(t) = p_{1,\text{base}} + A_1 \exp\!\left(-\frac{1}{2}\left(\frac{t - c_1}{
 
 $$p_2(t) = p_{2,\text{base}} + A_2 \exp\!\left(-\frac{1}{2}\left(\frac{t - c_2}{w_2}\right)^2\right)$$
 
-連立 ODE（$q_2 = 0$ 固定）:
+連立 ODE（ $q_2 = 0$ 固定）:
 
 $$\frac{ds}{dt} = -\bigl(p_1(t) + q_1 a\bigr) s$$
 
