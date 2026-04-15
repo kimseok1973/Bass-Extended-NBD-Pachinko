@@ -85,7 +85,8 @@ $$A_{\text{obs}}(t) \sim \mathcal{N}\!\left(M \cdot a(t) \cdot \bigl[1 - (\tfrac
 
 **観測2: 頻度分布（n=1500、9 年）**
 
-5ビンの観測カウント ```math
+5ビンの観測カウント: 
+```math
 \mathbf{n}_t = (n_{\text{heavy}}, n_{\text{middle}}, n_{\text{lmiddle}}, n_{\text{light}}, n_{\text{rare}})
 ``` 
 $$\mathbf{n}_t \sim \text{Multinomial}\!\bigl(N_{\text{survey}} = 1500, \; \hat{\mathbf{p}}_{\text{bin}}(r(t), \alpha_{\text{nbd}}(t))\bigr)$$
