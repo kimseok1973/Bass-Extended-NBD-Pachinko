@@ -73,9 +73,9 @@ $$\frac{dx}{dt} = p_2(t) \, a - \alpha \bigl(p_1(t) + q_1 a\bigr) x$$
 
 $2013$ 年中心の対数線形:
 
-$$\log r(t) = r_0 + r_1 (t - t_(2013) )$$
+$$\log r(t) = r_0 + r_1 (t - 2013 )$$
 
-$$\log \alpha_{\text{nbd}}(t) = a_0 + a_1 (t - t_(2013) )$$
+$$\log \alpha_{\text{nbd}}(t) = a_0 + a_1 (t - 2013 )$$
 
 ### 2.6 二重尤度
 
