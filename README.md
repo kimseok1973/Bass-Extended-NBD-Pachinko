@@ -75,7 +75,7 @@ $2013$ 年中心の対数線形:
 
 $$\log r(t) = r_0 + r_1 (t - t_{\text{2013}} )$$
 
-$$\log \alpha_{\text{nbd}}(t) = a_0 + a_1 (t - 2013 )$$
+$$\log \alpha_{\text{nbd}}(t) = a_0 + a_1 (t - t_{\text{2013}} )$$
 
 ### 2.6 二重尤度
 
@@ -87,7 +87,7 @@ $$A_{\text{obs}}(t) \sim \mathcal{N}\!\left(M \cdot a(t) \cdot \bigl[1 - (\tfrac
 
 5ビンの観測カウント ```math
 \mathbf{n}_t = (n_{\text{heavy}}, n_{\text{middle}}, n_{\text{lmiddle}}, n_{\text{light}}, n_{\text{rare}})
-``` :
+``` 
 $$\mathbf{n}_t \sim \text{Multinomial}\!\bigl(N_{\text{survey}} = 1500, \; \hat{\mathbf{p}}_{\text{bin}}(r(t), \alpha_{\text{nbd}}(t))\bigr)$$
 
 ### 2.7 ビン定義（時間で異なる）
